@@ -3,7 +3,7 @@
 Adaptive landing page created from design.
 Technologies that i used - HTML5, CSS3, SASS and BEM methodology.
 
-- [ADD DEMO LINK HERE](https://cheliojul.github.io/Eco_cosmetics/)
+- [DEMO LINK](https://cheliojul.github.io/Eco_cosmetics/)
 - [Figma design](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/brand_of_eco-cosmetics-(Edit)?node-id=1%3A2)
 
 ## Description
